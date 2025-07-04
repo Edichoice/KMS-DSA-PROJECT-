@@ -1,3 +1,5 @@
+## My first SQL Project
+
 # Kultra Mega Stores Inventory
 
 ## Company Overview
@@ -29,3 +31,6 @@ purchase?
 11. If the delivery truck is the most economical but the slowest shipping method and
 Express Air is the fastest but the most expensive one, do you think the company
 appropriately spent shipping costs based on the Order Priority? Explain your answer.
+
+### N/B: The above question is my first SQL project during my training journey in DSA. 
+I check and clean the data use for the above question, create a database in my SQL application and import the KMS documents as a flat file then answer the question as seen in the attached file.
