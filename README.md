@@ -1,6 +1,6 @@
-#Kultra Mega Stores Inventory
+# Kultra Mega Stores Inventory
 
-##Company Overview
+## Company Overview
 Kultra Mega Stores (KMS), headquartered in Lagos, specialises in office supplies and
 furniture. Its customer base includes individual consumers, small businesses (retail), and large corporate clients (wholesale) across Lagos, Nigeria.
 You have been engaged as a Business Intelligence Analyst to support the Abuja division of
@@ -11,7 +11,7 @@ findings.
 Apply your SQL skills from the DSA Data Analysis class and solve both case scenarios
 as shared in the document.
 
-##Case Scenario I
+## Case Scenario I
 1. Which product category had the highest sales?
 2. What are the Top 3 and Bottom 3 regions in terms of sales?
 3. What were the total sales of appliances in Ontario?
@@ -28,4 +28,4 @@ purchase?
 10. Which customer returned items, and what segment do they belong to?
 11. If the delivery truck is the most economical but the slowest shipping method and
 Express Air is the fastest but the most expensive one, do you think the company
-appropriately spent shipping costs based on the Order Priority? Explain your answer
+appropriately spent shipping costs based on the Order Priority? Explain your answer.
